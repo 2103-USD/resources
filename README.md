@@ -1,16 +1,16 @@
 # 🛍️ Grace Shopper
 
-- ![FSA](/logo.png) [📺 Supplemental Lectures](supplemental-lectures)
+- [📺 Supplemental Lectures](supplemental-lectures)
 
 ## Project
 
-- ![FSA](/logo.png) [🖼️ Slides: _Grace Shopper_](Grace-Shopper.pdf)
-- ![FSA](/logo.png) [📺 Lecture: _Intro to Grace Shopper_](https://youtu.be/XYOSf4Xhsnk)
-- ![FSA](/logo.png) [📺 Lecture: _Grace Shopper Github Setup_](https://youtu.be/KDqGwVy-m2w)
+- [🖼️ Slides: _Grace Shopper_](Grace-Shopper.pdf)
+- [📺 Lecture: _Intro to Grace Shopper_](https://youtu.be/XYOSf4Xhsnk)
+- [📺 Lecture: _Grace Shopper Github Setup_](https://youtu.be/KDqGwVy-m2w)
 
-- ![FSA](/logo.png) [🚗 IMPORTANT - Milestones](milestones.md)
-- ![FSA](/logo.png) [🔬 Workshop: _Final Project - Grace Shopper_](https://learn.fullstackacademy.com/workshop/5ece807ae423f6000461d41e/landing)
-- ![FSA](/logo.png) [🤝 Teamwork Processes](teamwork-processes)
+- [🚗 IMPORTANT - Milestones](milestones.md)
+- [🔬 Workshop: _Final Project - Grace Shopper_](https://learn.fullstackacademy.com/workshop/5ece807ae423f6000461d41e/landing)
+- [🤝 Teamwork Processes](teamwork-processes)
 
 ## 🤝 Teams
 
