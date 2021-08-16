@@ -14,9 +14,9 @@
 
 ## 🤝 Teams
 
-- codalorians: Anthony Beesley, Enzi Schow, Anthony Fernan, Derek Demeduk
-- tech-phantoms: Alex Yambao, Joel Menezes, Jonathon Guertin
-- data-moguls: Matthew Vera, Sean Burns, Beatrice White
+- codalorians: Alex Yambao, Enzi Schow, Anthony Fernan
+- tech-phantoms: Joel Menezes, Jonathon Guertin, Derek Demeduk, Matthew Vera,
+- data-moguls: Sean Burns, Beatrice White, Anthony Beesley,
 
 ## 📋 To Do - Day 1
 
