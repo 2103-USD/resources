@@ -5,8 +5,8 @@
 ## Project
 
 - [🖼️ Slides: _Grace Shopper_](Grace-Shopper.pdf)
-- [📺 Lecture: _Intro to Grace Shopper_]()
-- [📺 Lecture: _Grace Shopper Github Setup_]()
+- [📺 Lecture: _Intro to Grace Shopper_](https://youtu.be/XYOSf4Xhsnk)
+- [📺 Lecture: _Grace Shopper Github Setup_](https://youtu.be/KDqGwVy-m2w)
 
 - [🚗 IMPORTANT - Milestones](milestones.md)
 - [🔬 Workshop: _Final Project - Grace Shopper_](https://learn.fullstackacademy.com/workshop/5ece807ae423f6000461d41e/landing)
