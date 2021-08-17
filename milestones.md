@@ -420,6 +420,6 @@ Nice! You have completed another vertical slice! Make sure to `commit -m "feat(u
 
 ## - Wed 9/15 Mock Presentations / Retrospective
 
-## - Thu 12/16 midnight - Presentation Due IN the drive folder
+## - Thu 9/16 midnight - Presentation Due IN the drive folder
 
-## - Sat 12/18 - DEMO DAY & Graduation
+## - Sat 9/18 - DEMO DAY & Graduation
