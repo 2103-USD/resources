@@ -4,13 +4,13 @@
 
 ### 01 - Vanilla Tests
 
-- ![📺 Lecture](https://www.youtube.com/watch?v=o_CiAQSirHM&list=PLSxlYD5me6YWb4OUoK4li5BHgNTpja_6d&index=1)
-- ![👾 Demo Code](01-vanilla-tests)
+- [📺 Lecture](https://www.youtube.com/watch?v=o_CiAQSirHM&list=PLSxlYD5me6YWb4OUoK4li5BHgNTpja_6d&index=1)
+- [👾 Demo Code](01-vanilla-tests)
 
 ### 02 - Database Tests
 
-- ![📺 Lecture](https://www.youtube.com/watch?v=AeM-hjYXiz0&list=PLSxlYD5me6YWb4OUoK4li5BHgNTpja_6d&index=2)
-- ![👾 Demo Code](02-database-tests)
+- [📺 Lecture](https://www.youtube.com/watch?v=AeM-hjYXiz0&list=PLSxlYD5me6YWb4OUoK4li5BHgNTpja_6d&index=2)
+- [👾 Demo Code](02-database-tests)
 
 ### 03 - API Tests
 
