@@ -38,3 +38,7 @@
 - Context defined within its own component
   - ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=ANEcZEzcq98&list=PLSxlYD5me6YWb4OUoK4li5BHgNTpja_6d)
   - ![FSA](/logo.png) [👾 Demo Code](06-react-context/src/contexts/Users.js)
+
+### 07 - Strategies for handling a shopping card
+
+- ![FSA](/logo.png) [📺 Lecture](https://www.youtube.com/watch?v=rSy4wNN462M)
