@@ -302,7 +302,7 @@ Nice! You have completed another vertical slice! Make sure to `commit -m "feat(u
 
 </details>
 
-# Review 4: Start of Week 4 - Monday 12/07 - 💼 Admin, ⭐ Reviews
+# Review 4: Start of Week 4 - Monday 9/06 - 💼 Admin, ⭐ Reviews
 
 <details>
 
