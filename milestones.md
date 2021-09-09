@@ -422,7 +422,8 @@ Nice! You have completed another vertical slice! Make sure to `commit -m "feat(u
 
 ## - Thu 9/16 (by 9PM PST) - complete WUFOO form, Presentation Due IN the drive folder
 
-- [WUFOO form] (https://fullstackacademy.wufoo.com/forms/shd445r0y522cn/)
-- [Cohort google drive] (https://drive.google.com/drive/folders/1GZdZUDqR_nHMBeZCtu6yBK8D0ZO8bi9E)
+- [WUFOO form](https://fullstackacademy.wufoo.com/forms/shd445r0y522cn/)
+- [Cohort google drive](https://drive.google.com/drive/folders/1GZdZUDqR_nHMBeZCtu6yBK8D0ZO8bi9E)
+- [How to record on zoom](https://docs.google.com/document/d/1MRKbaVVBwiRe690GbDw1sobhTrkr4rDaa144GUWfrxg/edit)
 
 ## - Sat 9/18 - DEMO DAY & Graduation
