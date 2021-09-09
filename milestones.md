@@ -418,8 +418,11 @@ Nice! You have completed another vertical slice! Make sure to `commit -m "feat(u
 
 ## - Tue 9/14 Midnight - Presentation Due, uploaded to YouTube (send instructor link to YouTube)
 
-## - Wed 9/15 Mock Presentations / Retrospective
+## - Wed 9/15 Mock Presentations
 
-## - Thu 9/16 midnight - Presentation Due IN the drive folder
+## - Thu 9/16 (by 9PM PST) - complete WUFOO form, Presentation Due IN the drive folder
+
+- [WUFOO form] (https://fullstackacademy.wufoo.com/forms/shd445r0y522cn/)
+- [Cohort google drive] (https://drive.google.com/drive/folders/1GZdZUDqR_nHMBeZCtu6yBK8D0ZO8bi9E)
 
 ## - Sat 9/18 - DEMO DAY & Graduation
